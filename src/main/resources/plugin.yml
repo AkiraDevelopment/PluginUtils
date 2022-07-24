@@ -1,0 +1,6 @@
+name: Utils
+version: '${project.version}'
+main: xyz.akiradev.pluginutils.Utils
+api-version: 1.19
+authors: [ AkiraDev ]
+description: Plugin utils for all of my plugins
